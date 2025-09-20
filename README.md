@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm the Founder of Reaver.Entertainment  
 
-<!--
-**playreaver/playreaver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Website: [reaver.is-a.dev](https://reaver.is-a.dev)  
 
-Here are some ideas to get you started:
+**Reaver Entertainment** is an indie development studio creating games, web products, and apps.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 About Me  
+- Founder of **Reaver.Entertainment**  
+- Currently working on my main project: **[Hey, River](https://hey.reaver.is-a.dev/)**  
+- Skills:  
+  - **Python** 🐍  
+  - **HTML, CSS, JavaScript** 🌐  
+  - Mostly focused on **web development**  
+
+---

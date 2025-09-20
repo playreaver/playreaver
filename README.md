@@ -8,7 +8,7 @@
 
 ## 💻 About Me  
 - Founder of **Reaver.Entertainment**  
-- Currently working on my main project: **[Hey, River](https://hey.reaver.is-a.dev/)**  
+- Currently working on my main project: **[Hey, Rever](https://hey.reaver.is-a.dev/)**  
 - Skills:  
   - **Python** 🐍  
   - **HTML, CSS, JavaScript** 🌐  

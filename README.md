@@ -18,5 +18,8 @@
 
 ---
 
-## 🎮 Roblox  
-Check out our Roblox group: [Reaver Entertainment on Roblox](https://www.roblox.com/communities/34725595/Reaver-Entertainment#!/about)  
+## 🌐 Communities & Socials
+- 💬 Telegram: [@The_Dead_Dance](https://t.me/The_Dead_Dance)  
+- 🎮 Roblox Group: [Reaver Entertainment](https://www.roblox.com/communities/34725595/Reaver-Entertainment#!/about)  
+- ▶️ YouTube: [Reaver Entertainment Channel]([https://youtube.com](https://www.youtube.com/@reaver.entertainment))  
+

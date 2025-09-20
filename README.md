@@ -8,10 +8,15 @@
 
 ## 💻 About Me  
 - Founder of **Reaver.Entertainment**  
-- Currently working on my main project: **[Hey, Rever](https://hey.reaver.is-a.dev/)**  
+- Currently working on my main project: **Hey, River**  
 - Skills:  
   - **Python** 🐍  
   - **HTML, CSS, JavaScript** 🌐  
+  - **Unity (C#)** 🎮  
+  - **Roblox Studio (Lua)** 🕹️  
   - Mostly focused on **web development**  
 
 ---
+
+## 🎮 Roblox  
+Check out our Roblox group: [Reaver Entertainment on Roblox](https://www.roblox.com/communities/34725595/Reaver-Entertainment#!/about)  
